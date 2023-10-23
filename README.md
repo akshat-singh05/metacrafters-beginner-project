@@ -22,7 +22,7 @@ Blockchain Ethereum Beginners Module.
 
 Contributors names and contact info
 
-ex. Akshat Singh
+-> Akshat Singh
 
 
 ## License
